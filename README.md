@@ -54,15 +54,22 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nampallyvenkatbabu&show_icons=true&theme=tokyonight)
-
 ---
 
-## 🔥 GitHub Streak
+### 📊 GitHub Analytics & Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nampallyvenkatbabu&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nampallyvenkatbabu&theme=visual_studio_dark" alt="Venkat's GitHub Streak" height="180px"/>
+</p>
+
+<p align="left">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nampallyvenkatbabu&theme=visual_studio_dark&area=true" alt="Venkat's Activity Graph" width="100%" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Nampallyvenkatbabu&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Venkat's GitHub Stats" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nampallyvenkatbabu&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180px"/>
+</p>
 
 ---
 
