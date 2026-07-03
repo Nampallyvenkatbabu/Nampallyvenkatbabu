@@ -2,13 +2,14 @@
 
 ## 🚀 About Me
 
-🎯 Aspiring Data Engineer passionate about building scalable data pipelines and solving real-world data problems.
+🎯 Aspiring **Data Engineer** with a strong focus on building scalable data pipelines and delivering business‑ready insights.  
+💡 Passionate about solving real‑world data problems using modern cloud and big data technologies.  
 
-- 🌱 Currently learning Data Engineering
-- 💻 Practicing Python & SQL daily on LeetCode
-- ☁️ Exploring Azure Data Factory, Databricks & Apache Spark
-- 📊 Interested in ETL, Data Warehousing and Big Data
-- 🎯 Goal: Become a Data Engineer at a top product or MNC company
+- 🌱 Currently advancing skills in **Data Engineering**  
+- 💻 Practicing **Python & SQL** daily on LeetCode  
+- ☁️ Hands‑on with **Azure Data Factory, Databricks & Apache Spark**  
+- 📊 Deep interest in **ETL, Data Warehousing, and Big Data**  
+- 🎯 Career Goal: Join a top product or MNC company as a **Data Engineer**
 
 ---
 
@@ -19,7 +20,6 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Data Engineering
-
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge)
 ![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge)
@@ -27,7 +27,6 @@
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -36,24 +35,23 @@
 ---
 
 ## 📚 Currently Learning
-
-- Azure Data Factory
-- Azure Synapse Analytics
-- Apache Spark
-- Databricks
-- Data Warehousing
-- ETL Pipelines
+- Azure Data Factory  
+- Azure Synapse Analytics  
+- Apache Spark  
+- Databricks  
+- Data Warehousing  
+- ETL Pipelines  
 
 ---
 
 ## 💻 Coding Profiles
+- 🔥 [LeetCode](https://leetcode.com/u/NampallyVenkatbabu/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nampally-venkatbabu-ab5136147/)  
+- 📧 Email: **vvenkatvarma@gmail.com**
 
-- 🔥 LeetCode: [https://leetcode.com/u/Nampally Venkatbabu/](https://github.com/Nampallyvenkatbabu)
-- 💼 LinkedIn: [https://linkedin.com/in/https://www.linkedin.com/in/nampally-venkatbabu-ab5136147/](https://www.linkedin.com/in/nampally-venkatbabu-ab5136147/)
-- 📧 Email: vvenkatvarma@gmail.com
 ---
-### 📊 GitHub Analytics & Consistency
 
+## 📊 GitHub Analytics
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nampallyvenkatbabu&theme=visual_studio_dark" alt="Venkat's GitHub Streak" height="180px"/>
 </p>
@@ -66,6 +64,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Nampallyvenkatbabu&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Venkat's GitHub Stats" height="180px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nampallyvenkatbabu&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180px"/>
 </p>
+
 ---
 
 ## ⭐ Featured Projects
@@ -74,15 +73,14 @@
 Coming Soon...
 
 ### 📂 SQL Practice
-https://github.com/Nampallyvenkatbabu/leetcode_SQL
+[LeetCode SQL Solutions](https://github.com/Nampallyvenkatbabu/leetcode_SQL)
 
 ### 📂 Python LeetCode Solutions
-https://github.com/Nampallyvenkatbabu/Leetcode_Python
+[LeetCode Python Solutions](https://github.com/Nampallyvenkatbabu/Leetcode_Python)
 
 ---
 
 ## 📫 Connect with Me
+I’m eager to collaborate on **Data Engineering, Cloud, and Analytics projects**.  
 
-I'm always interested in collaborating on Data Engineering, Cloud, and Analytics projects.
-
-⭐ Feel free to connect with me!
+⭐ Let’s connect and build impactful solutions together!
