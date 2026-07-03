@@ -51,9 +51,7 @@
 - 🔥 LeetCode: [https://leetcode.com/u/Nampally Venkatbabu/](https://github.com/Nampallyvenkatbabu)
 - 💼 LinkedIn: [https://linkedin.com/in/https://www.linkedin.com/in/nampally-venkatbabu-ab5136147/](https://www.linkedin.com/in/nampally-venkatbabu-ab5136147/)
 - 📧 Email: vvenkatvarma@gmail.com
-
 ---
-
 ### 📊 GitHub Analytics & Consistency
 
 <p align="left">
